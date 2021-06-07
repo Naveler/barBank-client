@@ -5,7 +5,6 @@
         }
     }
 </script>
-
 <script>
     import {goto, stores} from '@sapper/app';
     import {post} from 'utils.js';
@@ -24,11 +23,9 @@
         }
     }
 </script>
-
 <svelte:head>
     <title>Sign in • barBank</title>
 </svelte:head>
-
 <div class="auth-page">
     <div class="container page">
         <div class="row">

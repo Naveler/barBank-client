@@ -42,9 +42,9 @@
                 <table class="table table-striped table-bordered">
                     <thead>
                     <tr>
-                        <th>Senders name</th>
+                        <th>SenderName</th>
                         <th>Amount</th>
-                        <th>Created at</th>
+                        <th>CreatedAt</th>
                         <th>Status</th>
                     </tr>
                     </thead>
